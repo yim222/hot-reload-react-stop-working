@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-//now it does working
 //adding export const
 export const x = "kk";
 //Now it's not working
