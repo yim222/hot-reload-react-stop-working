@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 //adding export const
 export const x = "kk";
-//Now it's not working
+//Now hot-reloading is not working
 function App() {
   return (
     <div className="App">
